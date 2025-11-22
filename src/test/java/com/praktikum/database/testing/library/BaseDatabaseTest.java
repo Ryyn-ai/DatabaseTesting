@@ -1,4 +1,4 @@
-package com.praktikum.database.testing.library.library;
+package com.praktikum.database.testing.library;
 
 // Import classes untuk testing dan database
 import com.praktikum.database.testing.library.config.DatabaseConfig;

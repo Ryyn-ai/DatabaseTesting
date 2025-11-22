@@ -1,8 +1,8 @@
-package com.praktikum.database.testing.dao;
+package com.praktikum.database.testing.library.dao;
 
 // Import classes untuk database operations dan model
 import com.praktikum.database.testing.library.config.DatabaseConfig;
-import com.praktikum.database.testing.model.User;
+import com.praktikum.database.testing.library.model.User;
 
 import java.sql.*;
 import java.util.ArrayList;

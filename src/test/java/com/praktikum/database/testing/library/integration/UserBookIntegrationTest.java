@@ -1,4 +1,4 @@
-package com.praktikum.database.testing.library.library.integration;
+package com.praktikum.database.testing.library.integration;
 
 public class UserBookIntegrationTest {
 }

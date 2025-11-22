@@ -1,4 +1,4 @@
-package com.praktikum.database.testing.model;
+package com.praktikum.database.testing.library.model;
 
 // Import annotations Lombok untuk mengurangi boilerplate code
 import lombok.AllArgsConstructor;

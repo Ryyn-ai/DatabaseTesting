@@ -2,7 +2,7 @@ package com.praktikum.database.testing.library.dao;
 
 // Import classes untuk testing
 import com.github.javafaker.Faker;
-import com.praktikum.database.testing.library.library.BaseDatabaseTest;
+import com.praktikum.database.testing.library.BaseDatabaseTest;
 import com.praktikum.database.testing.library.model.Borrowing;
 import com.praktikum.database.testing.library.model.User;
 import com.praktikum.database.testing.library.model.Book;
